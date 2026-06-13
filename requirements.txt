@@ -1,6 +1,7 @@
 # LangChain Core
 langchain
 langchain-core
+langchain
 
 # Hugging face integration
 langchain-huggingface
