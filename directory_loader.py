@@ -8,8 +8,11 @@ loader = DirectoryLoader(
 
 docs = loader.load()
 
+# docs = loader.lazy_load()
+
 print(len(docs))
 
-print(docs[0].page_content)
+# print(docs[0].page_content)
 
-print(docs[0].metadata)
+# print(docs[0].metadata)
+
